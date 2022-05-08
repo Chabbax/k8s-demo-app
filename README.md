@@ -1,6 +1,6 @@
 # k8s-demo-app ✨
 
-![demo-architecture](demo-architecture.png)
+![demo-architecture](images/demo-architecture.png)
 
 **Project Overview**
 Demo web application with some CRUD operations and MongoDB integrated with Kubernetes
